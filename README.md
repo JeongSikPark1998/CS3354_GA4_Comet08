@@ -6,7 +6,7 @@
 ### Use2: Full Slide Summarization(no demonstration)
 #### : ppt_analyzer_Full.ipynb
 
-# CS3354_GA4_Comet08
+# CS3354_GA5_Comet08
 ## Implement two more use cases
 
 ### Use3: Each Slide Summarization(demonstration needed)
