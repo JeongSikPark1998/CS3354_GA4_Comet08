@@ -10,9 +10,9 @@
 ## Implement two more use cases
 
 ### Use3: Each Slide Summarization(demonstration needed)
-#### : ppt_analyzer_Each_Keyword.ipynb
+#### : ppt_analyzer_Each.ipynb
 ### Use4: Keywords Extraction from each slide with Explanations(demonstraiton needed_
-#### : ppt_analyzer_Each_Keyword.ipynb
+#### : ppt_analyzer_Keyword.ipynb
 
 # 
 ### How to run 'ppt_analyzer_[].ipynb'
